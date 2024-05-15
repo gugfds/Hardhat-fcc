@@ -1,1 +1,1 @@
-This is my repository for learning hardhat
+This is my repository for learning hardhat and other stuff
