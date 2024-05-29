@@ -24,8 +24,7 @@ describe("SimpleStorage", function () {
         const expectedValue = "0"
 
         assert.equal(currentValue.toString(), expectedValue)
-        // or
-        // expect(currentValue.toString()).to.equal(expectedValue)
+
     })
 
     it("Should update when we call store", async function () {
