@@ -4,9 +4,7 @@ import { SimpleStorage, SimpleStorage__factory } from "../typechain-types"
 
 // (below is the same as) describe("SimpleStorage", function () => {})
 describe("SimpleStorage", function () {
-    //use this
-    // let SimpleStorageFactory
-    // let simpleStorage
+   
 
     //or this
     let simpleStorageFactory: SimpleStorage__factory,
