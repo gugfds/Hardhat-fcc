@@ -2,7 +2,7 @@ import { ethers } from "hardhat"
 import { expect, assert } from "chai"
 import { SimpleStorage, SimpleStorage__factory } from "../typechain-types"
 
-// (below is the same as) describe("SimpleStorage", function () => {})
+
 describe("SimpleStorage", function () {
    
 
