@@ -6,7 +6,6 @@ import { SimpleStorage, SimpleStorage__factory } from "../typechain-types"
 describe("SimpleStorage", function () {
    
 
-    //or this
     let simpleStorageFactory: SimpleStorage__factory,
         simpleStorage: SimpleStorage
 
