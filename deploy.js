@@ -5,7 +5,7 @@ require("dotenv").config()
 async function main() {
     const provider = new ethers.JsonRpcProvider(process.env.RPC_URL)
     
-    //non-encrypted
+    
     let wallet = new ethers.Wallet(process.env.PRIVATE_KEY, provider)
     
     
