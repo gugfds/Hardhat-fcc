@@ -17,7 +17,7 @@ describe("SimpleStorage", function () {
         const expectedValue = "0"
 
         assert.equal(currentValue.toString(), expectedValue)
-        // or this
+        // or
         // expect(currentValue.toString()).to.equal(expectedValue)
     })
 
